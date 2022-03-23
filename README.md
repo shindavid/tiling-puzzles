@@ -1,1 +1,3 @@
-# calendar-puzzle
+# tiling-puzzles
+
+A solver for solving tiling puzzles.
